@@ -10,7 +10,7 @@ export default function Home() {
     return (
       <>
         <HeaderContainer>
-            <Feature>
+          <Feature>
             <Feature.Title>
               Unlimited Films, TV programmes and more.
             </Feature.Title>
